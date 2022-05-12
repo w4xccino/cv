@@ -1,0 +1,7 @@
+Soy estudiante de SENATI de la sede Arequipa, entusiasta de la computación y la programación.
+Me gusta específicamente el desarrollo de aplicaciones web (backend) y tengo aspiraciones a ser proximanente a ser un programador FullStack.
+Me caracterizo por ser una persona tranquila y con mucho afán de aprender nuevas tecnologías y cualquier cosa relacionada a computadoras.
+Un tema clave,  es que ahora mismo, estoy desarrollando un proyecto construido con Node, Express, MySQL y React; del cual soy líder del proyecto.
+Un tema interesante sobre lo que me gusta hacer es tratar de solucionar problemas siempre tomando en cuenta la optimzación de la solución. Siempre se puede hacer mejor.
+Creo que la ciencia y el conocimiento debería ser abierto y libre para que cualquier persona pueda acceder al mismo sin ningún tipo de barrera.
+Pertenezo a la iglesia de Emacs.
